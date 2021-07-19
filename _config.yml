@@ -29,7 +29,7 @@ title: Panda-bob'blog
 email: panqiying0399@gmail.com
 #description: >- # this means to ignore newlines until "baseurl:"
 #  Linux C/C++ Software Engineer.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+#baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://panda-bob.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: panqiying
 github_username:  Panda-bob
