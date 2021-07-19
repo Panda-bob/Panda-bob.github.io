@@ -30,7 +30,7 @@ twitter_username: panqiying
 github_username:  panda-bob
 
 # Build settings
-theme: minima
+theme: jekyll-theme-dinky
 plugins:
   - jekyll-feed
 
