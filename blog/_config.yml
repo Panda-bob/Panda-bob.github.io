@@ -18,16 +18,34 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: panda-bob blog
+# Basic
+title: Renly
+description: 保持好奇心，知行合一
+# 头像里面的标题
+avatarTitle: 潘启英
+# 头像里面的描述
+avatarDesc: Linux C/C++ Software Engineer
+title: Panda-bob'blog
 email: panqiying0399@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+#description: >- # this means to ignore newlines until "baseurl:"
+#  Linux C/C++ Software Engineer.
+#baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://panda-bob.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: panqiying
-github_username:  panda-bob
+github_username:  Panda-bob
+
+
+# The blog button should not be removed.
+blog_button:
+    title: 博客主页
+
+# Navigation buttons in the front page.s
+nav:
+    - {title: 所有文章, description: archive, url: '/archive'}
+    - {title: 标签, description: tags, url: '/tags'}
+    - {title: 关于我, description: about, url: '/about'}
+
+
 
 # Build settings
 theme: jekyll-theme-dinky
