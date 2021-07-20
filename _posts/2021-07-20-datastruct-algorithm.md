@@ -490,3 +490,7 @@ B树/B+树 |O(log<sub>2</sub>n) |   |
 ### 牛客网
 
 * [牛客网 . 在线编程专题](https://www.nowcoder.com/activity/oj)
+
+### 算法刷题技巧
+
+* [labuladong 的算法小抄](https://labuladong.gitbook.io/algo/)
